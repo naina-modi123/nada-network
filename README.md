@@ -95,3 +95,7 @@ The tests verify that a path of exactly three hops is accepted and a path of fou
 ## AI Tools
 
 AI assistance was used during development for implementation guidance, debugging, and testing suggestions. All generated code should be reviewed and understood before submission.
+=======
+# nada-network
+Java REST API for people, mutual connections, and shortest paths
+>>>>>>> origin/main
